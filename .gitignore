@@ -1,0 +1,19 @@
+# large/binaries
+*.mp4
+*.zip
+*.pkl
+
+# datasets
+archive/
+subsampled_nthuddd2/
+archive.zip
+Eye dataset/
+
+# pycharm + python cache
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+*.log
